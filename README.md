@@ -22,6 +22,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
+---
 ## My Projects
 
 - [HEARTHSTONE MEMORY GAME](https://www.hearthstone-memory-game.herokuapp.com/)
