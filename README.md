@@ -24,7 +24,6 @@
 <br />
 <br />
 
----
 ## My Projects
 
 - [HEARTHSTONE MEMORY GAME](https://hearthstone-memory-game.herokuapp.com/)
