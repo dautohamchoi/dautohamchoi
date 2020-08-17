@@ -27,9 +27,9 @@
 ---
 ## My Projects
 
-- [HEARTHSTONE MEMORY GAME](https://www.hearthstone-memory-game.herokuapp.com/)
+- [HEARTHSTONE MEMORY GAME](https://hearthstone-memory-game.herokuapp.com/)
 
-- [NIKE STORE VN](https://www.nike-store-vn.herokuapp.com/)
+- [NIKE STORE VN](https://nike-store-vn.herokuapp.com/)
 
 ---
 ## Get in touch
