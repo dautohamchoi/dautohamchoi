@@ -2,7 +2,7 @@
 
 ## I'm an environmental engineer who want to be a front-end developer in the future.
 
-- :muscle: I'm currently practising coding through a few small projects.
+- :muscle: I'm currently practising coding through a few small projects everyday.
 
 - :point_right: 2020 Goals: Landing a job in multinational companies where I can contribute a small part to their success.
 
@@ -22,6 +22,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+<br />
+
 ---
 ## My Projects
 
