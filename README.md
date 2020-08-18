@@ -1,4 +1,4 @@
-### Hi everyone, I'm Hoang - aka @dautohamchoi
+### Hi everyone, I'm Hoang
 
 ## I'm an environmental engineer who want to be a front-end developer in the future.
 
